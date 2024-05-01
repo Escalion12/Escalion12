@@ -2,9 +2,7 @@
 - 👀 Comencé en el mundo de la prográmación con Phyton y despertó un gran interés en este gran mundo.
 - 🌱 Actualmente estoy aprendiendo HTML, CSS, JavaScript.
 - 💞️ Me estoy capacitando a través de Argentina Programa y Codo a Codo de la Ciudad de Buenos Aires.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tomas-caputo-6822ab182/)
-- 😄 Pronouns: Tom
-- ⚡ Fun fact: ...
+- 📫 Cómo contactarme [LinkedIn](https://www.linkedin.com/in/tomas-caputo-6822ab182/)
 
 <!---
 Escalion12/Escalion12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
